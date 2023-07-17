@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^13.5.0",
     "@thirdweb-dev/react": "^3.14.15",
     "@thirdweb-dev/sdk": "^3.10.35",
+    "console-browserify": "^1.2.0",
     "keccak256": "^1.0.6",
     "merkletreejs": "^0.3.10",
     "moralis-v1": "^1.13.0",
